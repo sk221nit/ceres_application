@@ -21,6 +21,10 @@ make
 
 
 
+
+
+
+
 Running process
 
 ./CERES_APP ../problem-16-22106-pre.txt
